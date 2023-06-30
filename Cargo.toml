@@ -1,0 +1,9 @@
+[profile.release]
+strip = true        # Strip symbols from binary*
+
+[package]
+name = "names"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
